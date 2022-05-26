@@ -1,7 +1,7 @@
 ### My Javascript note
 - Javascript is a `programming` language
 ``` javascript
-const myLove = "Nasrin"
+const myLove = "javascript"
 console.log(myLove);
 ```
 1. List one
